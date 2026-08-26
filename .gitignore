@@ -1,0 +1,19 @@
+# Foundry
+/broadcast/
+/cache/
+/dependencies/
+/out/
+/report/
+lcov.info
+
+# Deployment data
+/script/constants/
+/script/output/
+
+# Local configuration
+.env
+*-local.json
+
+# Editors and operating systems
+.DS_Store
+.vscode/
